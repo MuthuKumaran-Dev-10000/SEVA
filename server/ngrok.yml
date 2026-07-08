@@ -1,0 +1,11 @@
+version: "2"
+agent:
+  authtoken: 2pF939obwt1d0r6IKZUzk6Ultbm_3DXJmtSHm1aZJxjK2FXHx
+
+tunnels:
+  seva-signaling:
+    proto: http
+    addr: 8001
+    schemes:
+      - https
+    inspect: true

@@ -1,0 +1,8 @@
+# 1. Navigate to the server folder
+cd c:\Users\muthu\Freelance\seva\server
+
+# 2. Activate the virtual environment
+.\venv\Scripts\activate
+
+# 3. Run the FastAPI application
+python main.py
